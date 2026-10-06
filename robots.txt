@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mouvement-visible.netlify.app/sitemap.xml
